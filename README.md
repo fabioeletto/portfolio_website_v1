@@ -84,4 +84,4 @@ npm run dev
 This will start the webpack-dev-server, and the site will be available on your local network at `http://localhost:8080`. The server supports hot-reloading, so any changes made will be reflected automatically.
 
 ## Build
-Build is currently not working. Feel free to contribute and fix it.
+Build is currently not working. Feel free to contribute :)
