@@ -1,0 +1,43 @@
+{
+  "sections": [
+    {
+      "name": "Home",
+      "icon": "fa-solid fa-house"
+    },
+    {
+      "name": "About",
+      "icon": "fa fa-user"
+    },
+    {
+      "name": "Projects",
+      "icon": "fa-solid fa-code"
+    },
+    {
+      "name": "Contact",
+      "icon": "fa-solid fa-envelope"
+    }
+  ],
+  "projects":[
+    {
+      "title": "Project 1",
+      "description": "Description of project 1",
+      "usedTechnologies": ["HTML", "CSS", "JavaScript"],
+      "githubUrl": "[GITHUB_URL]"
+    },
+    {
+      "title": "Project 2",
+      "description": "Description of project 2",
+      "usedTechnologies": ["HTML", "CSS", "JavaScript"],
+      "githubUrl": "[GITHUB_URL]"
+    },
+    {
+      "title": "Project 3",
+      "description": "Description of project 3",
+      "usedTechnologies": ["HTML", "CSS", "JavaScript"],
+      "githubUrl": "[GITHUB_URL]"
+    }
+  ],
+  "gitHubProfileUrl": "[GITHUB_PROFILE_URL]",
+  "stackoverflowProfileUrl": "[STACKOVERFLOW_PROFILE_URL]",
+  "email": "[EMAIL]"
+}
