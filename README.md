@@ -1,6 +1,6 @@
 # Portfolio Website - V1
 
-![Website_v1](https://github.com/user-attachments/assets/e4febb1b-f134-4550-8af4-58042881f13e)
+![Website_Preview_v1](/Website_Preview.png)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
